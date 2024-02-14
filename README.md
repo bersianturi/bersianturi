@@ -27,7 +27,7 @@
 
 ###
 
-✨ Creating bugs since 2020<br>📚 I'm currently learning React.js and Laravel<br>🔭 I’m currently working on [SIB X Dicoding Capstone Project](https://github.com/bersianturi) <br>👨‍💻 All of my projects are available at [My Portfolio Site](http://bersianturi.tech) <br>📫 How to reach me **bernard.req@gmail.com**
+✨ Creating bugs since 2020<br>📚 I'm currently learning React.js and Laravel<br>🔭 I’m currently working on [NutriCare V1.5](https://github.com/bersianturi/nutricare) <br>👨‍💻 All of my projects are available at [My Portfolio Site](http://bersianturi.tech) <br>📫 How to reach me **bernard.req@gmail.com**
 
 ###
 
